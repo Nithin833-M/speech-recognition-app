@@ -41,13 +41,16 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/speech-recognition-app.git
    
 2. Navigate to the project directory:
-   cd speech-recognition-app
-   
-3. Install the required Python libraries
-   pip install -r requirements.txt
 
-4. Run the Flask server
-   python app.py
+     cd speech-recognition-app
    
-5. Open the index.html file in your browser to interact with the application.
+4. Install the required Python libraries:
+
+     pip install -r requirements.txt
+
+6. Run the Flask server:
+
+     python app.py
+   
+8. Open the index.html file in your browser to interact with the application.
 
